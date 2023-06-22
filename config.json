@@ -1,0 +1,14 @@
+{
+	"dev": {
+		"conn_string"				: "jdbc:sqlserver://10.7.27.138:1433;databasename=STG",
+		"table" 					: "table1",
+		"Ec2SubnetId"						: "subnet-02xxxxx",
+		"Ec2KeyName"						: "xxx-xxx-xxx",
+		"instance_profile" 					: "AmazonEMR-InstanceProfile-xxxxxx"
+	},
+	},
+	"pre-prod": {
+	},
+	"prod": {
+	}
+}
